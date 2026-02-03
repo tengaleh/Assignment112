@@ -12,11 +12,6 @@
 
     <name>Maven Multi Module Demo</name>
 
-    <modules>
-        <module>server</module>
-        <module>webapp</module>
-    </modules>
-
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
